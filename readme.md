@@ -23,7 +23,7 @@ I am currently a student studying computer science and engineering at
     Check out my portfolio at <a href="https://anindra123.github.io/portfolio/">https://anindra123.github.io/portfolio/</a>
 </li>
 <li>
-    Contact me at : <a>bivasdas911@gmail.com</a>
+    Contact me at : <a href="">bivasdas911@gmail.com</a>
 </li>
 </ul>
 </td>
