@@ -16,7 +16,9 @@ I am currently a student studying computer science and engineering at
 <tr >
 <td colspan="2">
 <b>Links :</b>
+   
 <ul>
+     <br>
 <li>
     Check out my portfolio at <a href="https://anindra123.github.io/portfolio/">https://anindra123.github.io/portfolio/</a>
 </li>
@@ -27,8 +29,11 @@ I am currently a student studying computer science and engineering at
 </td>
 <tr>
 <td colspan="2">
-<b>Stats :</b><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anindra123&show_icons=true&locale=en" alt="Anindra123" /></p>
+<b>Stats :</b>
+<p>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anindra123&show_icons=true&locale=en&theme=dracula" alt="Anindra123" />
+</p>
 </td>
 </tr>
 </tr>
