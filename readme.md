@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/aeY3JW2.gif" width = "1000" height="500"/>
+<img src="https://i.imgur.com/aeY3JW2.gif" width = "700" height="300"/>
 </td>
 <td align="justify">
 <b>About me :</b>
@@ -27,7 +27,7 @@ I am currently a student studying computer science and engineering at
 </td>
 <tr>
 <td colspan="2">
-<b>Stats :</b>
+<b>Stats :</b><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anindra123&show_icons=true&locale=en" alt="Anindra123" /></p>
 </td>
 </tr>
