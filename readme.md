@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/aeY3JW2.gif" width = "1000" height="200"/>
+<img src="https://i.imgur.com/aeY3JW2.gif" width = "1000" height="500"/>
 </td>
 <td align="justify">
 <b>About me :</b>
