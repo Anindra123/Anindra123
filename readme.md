@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-   <img src="" width="20" height="20" alt="recursion gif"/>
+   <img src="MUxV.gif"  alt="recursion gif"/>
 </td>
 <td align="justify">
 <b>About me :</b>
