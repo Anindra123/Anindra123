@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/aeY3JW2.gif" width = "700" height="300"/>
+<iframe src="https://giphy.com/embed/qoJ9sZu2Xui9a" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fractal-qoJ9sZu2Xui9a">via GIPHY</a></p>
 </td>
 <td align="justify">
 <b>About me :</b>
