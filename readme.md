@@ -3,7 +3,9 @@
 <table>
 <tr>
 <td>
-   <img src="MUxV.gif"  alt="recursion gif"/>
+   <a href="https://en.wikipedia.org/wiki/Tower_of_Hanoi" target="_blank" >
+   <img src="toh.gif"  alt="tower of hanoi gif" title="tower of hanoi solver gif" />
+   </a>
 </td>
 <td align="justify">
 <b>About me :</b>
