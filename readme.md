@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-   <a href="https://en.wikipedia.org/wiki/Tower_of_Hanoi" target="_blank" >
+   <a href="https://en.wikipedia.org/wiki/Tower_of_Hanoi" target="_self" >
    <img src="toh.gif"  alt="tower of hanoi gif" title="tower of hanoi solver gif" />
    </a>
 </td>
