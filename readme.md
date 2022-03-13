@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Anindra Das Bivas </h1>
 <h3 align="center"><b>Welcome to my github repo</b></h3>
-<iframe src="https://giphy.com/embed/qoJ9sZu2Xui9a" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fractal-qoJ9sZu2Xui9a">via GIPHY</a></p>
-<br>
 <table>
 <tr>
 <td>
-<img src="https://giphy.com/embed/qoJ9sZu2Xui9a" width="20" height="20" />
+   <img src="" width="20" height="20" alt="recursion gif"/>
 </td>
 <td align="justify">
 <b>About me :</b>
