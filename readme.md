@@ -109,17 +109,6 @@ I am currently a student studying computer science and engineering at <a href="h
       <br>Visual Studio
     </td>
   </tr>
-</td>
-<tr>
-<td colspan="2">
-<b>Stats :</b>
-<p>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anindra123&show_icons=true&locale=en&theme=dracula" alt="Anindra123" />
-</p>
-</td>
-</tr>
-</tr>
 </table>
 <br>
 
