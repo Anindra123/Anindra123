@@ -14,9 +14,11 @@ I am currently a student studying computer science and engineering at <a href="h
 ### 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.facebook.com/bivas.bivas.9/" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="linkedin" width="30" height="30"/></a>
-<a href="https://www.linkedin.com/in/anindra-das-bivas-4aa0b523a" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30" height="30"/></a>
-<a href="https://twitter.com/Xneco1" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="30" height="30"/></a>
+<a href="https://www.facebook.com/bivas.bivas.9/" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="linkedin" width="40" height="40"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/anindra-das-bivas-4aa0b523a" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a>
+&nbsp;
+<a href="https://twitter.com/Xneco1" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/></a>
 </p>
 <br>
 
