@@ -1,5 +1,9 @@
 <h1 align="center">Hi,👋 I'm Anindra Das Bivas </h1>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Anindra123" width="120" alt="Profile Views of Anindra Das">
+</p>
+
 
 ### 🧑‍💻 About Me
 <p>
@@ -114,4 +118,6 @@ I am currently a student studying computer science and engineering at <a href="h
 
 ### 📈 Stats
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Anindra123&show_icons=true&locale=en" alt="Anindra123"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Anindra123&show_icons=true&locale=en&theme=dracula" alt="Anindra123"/></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anindra123&layout=compact&theme=dracula"/></p>
