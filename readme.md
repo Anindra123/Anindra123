@@ -16,14 +16,13 @@ I am currently a student studying computer science and engineering at <a href="h
 </p>
 <br>
 
-### 🔗 Links
-
+### 🔗 Links   
 <ul>
 <li>
     Check out my portfolio at <a href="https://anindra123.github.io/portfolio/">https://anindra123.github.io/portfolio/</a>
 </li>
 <li>
-    Contact me at : <a>bivasdas911@gmail.com</a>
+    Contact me at : <a href="">bivasdas911@gmail.com</a>
 </li>
 </ul>
 <br>
@@ -110,6 +109,17 @@ I am currently a student studying computer science and engineering at <a href="h
       <br>Visual Studio
     </td>
   </tr>
+</td>
+<tr>
+<td colspan="2">
+<b>Stats :</b>
+<p>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anindra123&show_icons=true&locale=en&theme=dracula" alt="Anindra123" />
+</p>
+</td>
+</tr>
+</tr>
 </table>
 <br>
 
