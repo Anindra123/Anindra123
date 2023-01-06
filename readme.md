@@ -148,9 +148,9 @@ I am currently a student studying computer science and engineering at <a href="h
     </td>
     <td align="center" width="96">
         <a href="#python">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="48" height="48" alt="python" />
+            <img src="https://seeklogo.com/images/J/jquery-logo-BD35C03823-seeklogo.com.png" width="48" height="48" alt="python" />
         </a>
-        <br>Arduino IDE
+        <br>JQuery
     </td>
     <td align="center" width="96">
         <a href="#CSharp">
