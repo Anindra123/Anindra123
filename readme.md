@@ -142,9 +142,9 @@ I am currently a student studying computer science and engineering at <a href="h
     </td>
     <td align="center" width="96">
       <a href="#laravel">
-        <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" width="48" height="48" alt="Laravel" />
+        <img src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png" width="48" height="48" alt="Laravel" />
       </a>
-      <br>SQL Server
+      <br>Wordpress
     </td>
     <td align="center" width="96">
         <a href="#python">
