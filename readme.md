@@ -1,5 +1,5 @@
 <h1 align="center">Hi,👋 I'm Anindra Das Bivas </h1>
-
+<p align="center"><img src="https://media0.giphy.com/media/qoJ9sZu2Xui9a/giphy.gif?cid=790b7611e22f6254c02681c2979b70854fd28dacb176001c&rid=giphy.gif&ct=g" height="200" width="200"/></p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Anindra123" width="120" alt="Profile Views of Anindra Das">
 </p>
@@ -7,18 +7,18 @@
 
 ### 🧑‍💻 About Me
 <p>
-I am currently a student studying computer science and engineering at <a href="https://www.aiub.edu/">AIUB</a> and trying to learn full-stack web development in my free time.
+I am currently a student studying computer science and engineering at <a href="https://www.aiub.edu/">AIUB</a>. I am passionate about web development and AI  (Computer vision and NLP).
 </p>
 <br>
 
 ### 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.facebook.com/bivas.bivas.9/" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="linkedin" width="40" height="40"/></a>
+<a href="https://www.facebook.com/profile.php?id=100086548803077" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="linkedin" width="40" height="40"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/anindra-das-bivas-4aa0b523a" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a>
 &nbsp;
-<a href="https://twitter.com/Xneco1" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/></a>
+<a href="https://twitter.com/bivasDas93" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/></a>
 </p>
 <br>
 
@@ -61,6 +61,12 @@ I am currently a student studying computer science and engineering at <a href="h
         </a>
         <br>ASP.NET
     </td>
+    <td align="center" width="96">
+        <a href="#.net">
+            <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="48" height="48" alt=".NET"/>
+        </a>
+        <br>React JS
+    </td>
   </tr>
 
   <tr>
@@ -88,6 +94,12 @@ I am currently a student studying computer science and engineering at <a href="h
         </a>
         <br>C#
     </td>
+    <td align="center" width="96">
+        <a href="#CSharp">
+            <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="48" height="50" alt="Csharp"/>
+        </a>
+        <br> PostMan
+    </td>
   </tr>
    <tr>
       <td align="center" width="96">
@@ -113,6 +125,44 @@ I am currently a student studying computer science and engineering at <a href="h
         <img src="https://seeklogo.com/images/M/microsoft-visual-studio-logo-9E65CA55F8-seeklogo.com.png" width="48" height="48" alt="Visual Studio" />
       </a>
       <br>Visual Studio
+    </td>
+      <td align="center" width="96">
+      <a href="#vs" >
+        <img src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" width="48" height="48" alt="Visual Studio" />
+      </a>
+      <br> Laravel
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#nuxtjs" >
+        <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>Entity Framework
+    </td>
+    <td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>SQL Server
+    </td>
+    <td align="center" width="96">
+        <a href="#python">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="48" height="48" alt="python" />
+        </a>
+        <br>Arduino IDE
+    </td>
+    <td align="center" width="96">
+        <a href="#CSharp">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="50" alt="Csharp"/>
+        </a>
+        <br>Tensorflow
+    </td>
+    <td align="center" width="96">
+        <a href="#CSharp">
+            <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="50" alt="Csharp"/>
+        </a>
+        <br>Pytorch 
     </td>
   </tr>
 </table>
