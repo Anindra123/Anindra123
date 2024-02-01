@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 <p>
-I am currently a student studying computer science and engineering at <a href="https://www.aiub.edu/">AIUB</a>. I am passionate about web development and AI  (Computer vision and NLP).
+I am junior software engineer at <a href="https://ollyo.com/">Ollyo</a>. Passionate about bulding website and solving problems. Talk to me about javascript, react or anything computer science related. 
 </p>
 <br>
 
