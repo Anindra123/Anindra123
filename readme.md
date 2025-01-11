@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 <p>
-Associate software engineer at <a href="https://ollyo.com/">Ollyo</a>. Passionate about bulding website and solving problems. Talk to me about javascript, PHP or anything computer science related. 
+Associate software engineer at <a href="https://ollyo.com/">Ollyo</a>. Passionate about solving problems. Talk to me about javascript, PHP or anything computer science related. 
 </p>
 <br>
 
